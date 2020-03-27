@@ -10,7 +10,7 @@ public class WindowJFrame extends JFrame {
 
         MyPanel panel = new MyPanel();
         this.add(panel);
-        this.setSize(400, 300);
+        this.pack();
         this.setLocationRelativeTo(null);
     }
 
