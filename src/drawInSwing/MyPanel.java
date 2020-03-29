@@ -19,6 +19,7 @@ public class MyPanel extends JPanel {
         g.drawString("Hello", 120, 70);
         g.setColor(Color.WHITE);
         g.drawString("Good morning", 10, 210);
+
     }
 
 }
