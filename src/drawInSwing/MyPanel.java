@@ -6,7 +6,7 @@ import java.awt.*;
 public class MyPanel extends JPanel {
 
     public MyPanel(){
-        this.setBackground(Color.blue);
+        this.setBackground(Color.LIGHT_GRAY);
         this.setPreferredSize(new Dimension(400,300));
     }
     private int[] xx = {
