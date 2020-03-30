@@ -5,7 +5,7 @@ import javax.swing.*;
 public class WindowJFrame extends JFrame {
 
     public WindowJFrame(){
-        this.setTitle("Main window of program");
+        this.setTitle("My castle");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         MyPanel panel = new MyPanel();
